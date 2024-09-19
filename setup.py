@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="dir-manager",
-    version="0.0.1",
+    version="0.0.2",
     packages=find_packages(),
-    install_requires=["shutil"],
+    install_requires=[],
     description="simple-dir-manager",
     author="Song Seung Hwan",
     author_email="shdth117@gmail.com",
