@@ -4,7 +4,7 @@ setup(
     name="dir-manager",
     version="0.0.1",
     packages=find_packages(),
-    install_requires=[],
+    install_requires=["shutil"],
     description="simple-dir-manager",
     author="Song Seung Hwan",
     author_email="shdth117@gmail.com",
