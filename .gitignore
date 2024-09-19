@@ -1,0 +1,4 @@
+dist
+dir_manager.egg-info
+build
+.venv
